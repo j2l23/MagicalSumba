@@ -1,0 +1,2 @@
+# MagicalSumba
+GitHub Pages

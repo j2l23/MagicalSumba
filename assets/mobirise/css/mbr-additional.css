@@ -476,7 +476,7 @@ h6,
   color: #be9d6a!important;
 }
 #slider-w H2 {
-  font-size: 36px;
+  font-size: 32px;
 }
 #msg-box8-4 .mbr-section-title,
 #msg-box8-4 p {
@@ -490,6 +490,9 @@ h6,
   color: #fff;
 }
 #msg-box8-u .lead {
+  color: #ffffff;
+}
+#msg-box8-u .mbr-section-title {
   color: #ffffff;
 }
 #header3-i .mbr-section-title,

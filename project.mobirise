@@ -29,7 +29,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 33,
+    "uniqCompNum": 34,
     "versionPublish": "4.7.10",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -71,7 +71,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LAND FOR SALE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">KALALA BEACH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">KEREWE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">ATE DALO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AVATAR</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONSTRUCTION PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">RESORT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">HOTEL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">VILLA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">HOME STAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">CLUB BEACH HOUSE</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">THE WAY TO iINVEST</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">THE PROCESS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">THE VISIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">NOTARY AND LEGAL ACTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SUMBA INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">GENERAL FACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">CULTURE AND NATURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">ROADS AND TRANSPORTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">ECO DEVELOPMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">HEALTH FACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">HUMANITARIAN ACTIONS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-v\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LAND FOR SALE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">KALALA BEACH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">KEREWE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">ATE DALO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AVATAR</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONSTRUCTION PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">RESORT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">HOTEL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">VILLA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">HOME STAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">CLUB BEACH HOUSE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INVEST IN SUMBA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">WHY INVEST ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">THE PROCESS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">THE VISIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">NOTARY AND LEGAL ACTS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SUMBA INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">GENERAL FACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">CULTURE AND NATURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">ROADS AND TRANSPORTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">ECO DEVELOPMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">HEALTH FACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">HUMANITARIAN ACTIONS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-v\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>",
           "_tags": [
             "Thème"
           ],
@@ -126,10 +126,12 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logosumba-blanc-88x97.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -138,11 +140,10 @@
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
               "size": 0,
-              "active": true,
               "color": "#c0a375"
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MAGICAL SUMBA<br>REAL ESTATE<br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MAGICAL SUMBA<br>THE WILD HORSES ISLAND<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-0"
         },
@@ -173,7 +174,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/sumba-site-1134x814.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -248,7 +249,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/village-sumba-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -269,7 +270,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Wathever your project,<br>We get lands and teams to built your dream...<div><br></div>",
+                "title": "Wathever your project,<br>We get lands and teams to built your dream<div><br></div>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -286,7 +287,7 @@
           "_anchor": "slider-w",
           "_styles": {
             "H2": {
-              "font-size": "36px"
+              "font-size": "32px"
             }
           }
         },
@@ -309,7 +310,7 @@
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#034d73",
+            "bgColor": "#222222",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -319,7 +320,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ARTICLE HEADER",
-          "text": "<p>SUMBA ISLAND IS A 11.153 KM2 PEARL IN THE INDONESIAN'S ARCHIPELAGO&nbsp;<span style=\"font-size: 1.07rem;\">WHICH OFFERS &nbsp;BREATHTAKING PRESERVED LANDSCAPES,&nbsp;</span><span style=\"font-size: 1.07rem;\">UNIQUES &nbsp;WHITE SAND BEACHES, MAGNIFICENT UNDERWATER ANS WILDLIFE, TRADITIONNAL VILLAGES AND MEGALITHIC CULTURE WHICH ARRIVES US FROM A VERY DISTANT PAST OF THE HUMANITY. SUMBA IS PROMISED TO A BRIGTH FUTUR THAT TO BE \"THE ICON ISLAND\" OF THE SUSTAINABLE DEVELOPMENT BEFORE 8 YEARS.</span></p>",
+          "text": "<p>SUMBA ISLAND IS A 11.153 KM2 UNTOUCHED PEARL IN THE INDONESIAN ARCHIPELAGO&nbsp;<span style=\"font-size: 1.07rem;\">WHICH OFFERS&nbsp;</span><span style=\"font-size: 1.07rem;\">UNIQUES WHITE SAND BEACHES, PRESERVED WILDLIFE AND UNKNOW MEGALITHIC CULTURE. IT IS PROMISED TO A BRIGTH FUTUR THAT TO BE \"THE ICON ISLAND\" OF THE SUSTAINABLE DEVELOPMENT BEFORE 8 YEARS.</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Thème"
@@ -334,16 +335,19 @@
             },
             ".lead": {
               "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButton": false,
+            "showButton": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/resort-3d-1200x675.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/myconian-utopia-2000x1605.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -353,11 +357,11 @@
             },
             "overlay": true,
             "overlayColor": "#222222",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0"
           },
           "title": "MAKE THE DREAM COMES TRUE",
-          "text": "WE CAN OPERATE ANY CONSTRUCTION PROJECT; RESORT, HOTEL, VILLA, HOMESTAY, CLUB BEACH HOUSE;",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "text": "WE CAN OPERATE ANY CONSTRUCTION PROJECT; RESORT, HOTEL, VILLA, HOMESTAY, CLUB BEACH HOUSE.&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SOME VALUABLE EXAMPLES</a>",
           "_tags": [
             "Thème"
           ],

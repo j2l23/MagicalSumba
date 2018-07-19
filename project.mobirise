@@ -40,7 +40,7 @@
         "css": "'Rubik', sans-serif"
       }
     ],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/logosumba-blanc-88x970.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined"

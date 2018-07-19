@@ -24,7 +24,8 @@
         "#fae70c",
         "#222222",
         "#be9d6a",
-        "#053061"
+        "#053061",
+        "#034d73"
       ]
     },
     "versionFirst": "3.12.1",
@@ -171,7 +172,7 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sumba-site-1134x814.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thinkstockphotos-531626500-2000x709.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -217,7 +218,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1279.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -262,13 +263,13 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/myconian-utopia-2000x1605.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "We built <br>your dream",
+                "title": "We get land to built <br>your dream",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -308,7 +309,7 @@
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#053061",
+            "bgColor": "#034d73",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"

@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#be9d6a",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -22,11 +22,13 @@
       },
       "additionalSetColors": [
         "#fae70c",
-        "#222222"
+        "#222222",
+        "#be9d6a",
+        "#053061"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 33,
     "versionPublish": "4.7.10",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -68,7 +70,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LAND FOR SALE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">KALALA BEACH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">KEREWE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">ATE DALO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AVATAR</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONSTRUCTION PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">RESORT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">HOTEL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">VILLA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">HOME STAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">CLUB BEACH HOUSE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">THE WAY TO BUY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">THE PROCESS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">THE VISIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">NOTARY AND LEGAL ACTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SUMBA INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">GENERAL FACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">CULTURE AND NATURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">ROADS AND TRANSPORTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">ECO DEVELOPMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">HEALTH FACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">HUMANITARIAN ACTIONS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LAND FOR SALE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">KALALA BEACH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">KEREWE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">ATE DALO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AVATAR</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONSTRUCTION PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">RESORT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">HOTEL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">VILLA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">HOME STAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">CLUB BEACH HOUSE</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">THE WAY TO iINVEST</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">THE PROCESS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">THE VISIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">NOTARY AND LEGAL ACTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SUMBA INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">GENERAL FACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">CULTURE AND NATURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">ROADS AND TRANSPORTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">ECO DEVELOPMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">HEALTH FACTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">HUMANITARIAN ACTIONS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-v\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>",
           "_tags": [
             "Thème"
           ],
@@ -77,7 +79,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -117,7 +120,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#be9d6a!important"
             }
           },
           "logo": {
@@ -130,11 +133,12 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "globe",
+              "name": "sun2",
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
               "size": 0,
-              "active": true
+              "active": true,
+              "color": "#c0a375"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MAGICAL SUMBA<br>REAL ESTATE<br></a>",
@@ -143,40 +147,145 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/thinkstockphotos-531626500-2000x709.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "3",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/milky-site-ok-1920x1200.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "A jewel <br>on earth,",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sumba-site-1134x814.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "A pearl in the indonesian's archipelago,",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "A preserved land with untouched beaches,",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1439.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Magnificent underwater,&nbsp;",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1279.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Breathtaking hills scenaries,",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thinkstockphotos-532038730-2000x1335.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Traditionnals villages,",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/village-sumba-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "A forgotten and ancestral civilization,",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/myconian-utopia-2000x1605.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "We built <br>your dream",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              }
+            ]
           },
-          "title": "<span style=\"font-weight: normal;\"><br><br><br><br><br><br>SUMBA<br>A JEWEL ON EARTH</span>",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "articleLayout": false,
           "_tags": [
             "Thème"
           ],
-          "_name": "header1",
-          "_anchor": "header1-1",
+          "_name": "slider",
+          "_anchor": "slider-w",
           "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Rubik', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            "H2": {
+              "font-size": "36px"
             }
           }
         },
@@ -199,7 +308,7 @@
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#053061",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"

@@ -172,8 +172,8 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/thinkstockphotos-531626502-2000x709.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/thinkstockphotos-531626500-2000x709.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -217,7 +217,7 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/thinkstockphotos-597265667-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thinkstockphotos-597265666-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -232,8 +232,8 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/thinkstockphotos-532038732-2000x1335.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/thinkstockphotos-532038730-2000x1335.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,

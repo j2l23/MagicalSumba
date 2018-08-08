@@ -40,7 +40,7 @@
         "css": "'Rubik', sans-serif"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/logosumba-blanc-88x971.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logosumba-blanc-88x972.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined"
@@ -234,7 +234,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/sumba-falaises-flickr-2000x1500.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -270,7 +270,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Magnificent underwater&nbsp;",
+                "title": "A magnificent underwater&nbsp;",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -339,7 +339,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/infinity-pool-2-2000x1468.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,

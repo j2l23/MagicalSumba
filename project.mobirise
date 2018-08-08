@@ -40,7 +40,7 @@
         "css": "'Rubik', sans-serif"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/logosumba-blanc-88x970.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logosumba-blanc-88x971.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined"
@@ -155,7 +155,7 @@
             "paddingBottom": 3,
             "showBullets": true,
             "bgColor": "#fff",
-            "timeout": "2",
+            "timeout": "3",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/milky-site-ok-1920x1200.jpg",
@@ -249,7 +249,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1281.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -339,7 +339,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/infinity-pool-2-2000x1468.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
